@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Julianopie2-Regular';
+    src: url('Julianopie2-Regular.ttf');
+}
+
+h1 {
+font-family: 'Julianopie2-Regular';
+font-weight:normal;
+font-style:normal;
+}
+
+canvas {
+font-family: 'Julianopie2-Regular';
+font-weight:normal;
+font-style:normal;
+}
+
+text {
+font-family: 'Julianopie2-Regular';
+font-weight:normal;
+font-style:normal;
+}
+
+textarea {
+font-family: 'Julianopie2-Regular';
+font-weight:normal;
+font-style:normal;
+}
+
+p {
+font-family: 'Julianopie2-Regular';
+font-weight:normal;
+font-style:normal;
+}
